@@ -6,6 +6,25 @@ This repository consolidates principles, best practices, architectural decisions
 
 ---
 
+## Repository Structure
+
+```text
+awesome-software-engineering-playbook/
+├── architecture/
+├── backend/
+├── frontend/
+├── cloud/
+├── databases/
+├── devops/
+├── security/
+├── testing/
+├── system-design/
+├── ai-engineering/
+├── leadership/
+├── career/
+└── resources/
+```
+
 ## 🎯 Purpose
 
 Technology changes constantly.
